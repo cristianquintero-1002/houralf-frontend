@@ -1,0 +1,54 @@
+.contenedor6 {
+    width: 95%;
+    height: 100vh;
+    background-color: blue;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 15px;  
+    
+}
+.contenedorcito4 {
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 15px; 
+    border: 1px solid blue;
+}
+
+.Lugares{
+    color: white;
+    text-align: center;
+    line-height: 120px;
+    font-size: 30px;
+}
+.lugar{
+    display:block !important;
+    margin:auto !important;
+    color: black !important;
+    border-radius: 80px !important;
+    width: 100px !important;
+    margin-top: 40px !important;
+    margin-bottom: 15px !important;
+    font-size: 25px;
+}
+.btn_l_es{
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+}
+.btn_r_l_es{
+    display:block !important;
+    margin:auto !important;
+    width: 100px !important;
+    margin-top: 40px !important;
+}
+.lugar_n{
+    width: 50px;
+    height: 50px;
+    border-radius: 60px;
+}
